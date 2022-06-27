@@ -1,0 +1,26 @@
+[
+  {
+    "name": "SelectChangeCoin",
+    "path": "/SelectChangeCoin",
+    "component": "D:\\\\Task\\\\20220620\\\\Swap\\\\pages\\\\SelectChangeCoin.vue",
+    "chunkName": "pages/SelectChangeCoin"
+  },
+  {
+    "name": "SelectCoin",
+    "path": "/SelectCoin",
+    "component": "D:\\\\Task\\\\20220620\\\\Swap\\\\pages\\\\SelectCoin.vue",
+    "chunkName": "pages/SelectCoin"
+  },
+  {
+    "name": "stableToken",
+    "path": "/stableToken",
+    "component": "D:\\\\Task\\\\20220620\\\\Swap\\\\pages\\\\stableToken.vue",
+    "chunkName": "pages/stableToken"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Task\\\\20220620\\\\Swap\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
